@@ -14,7 +14,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Firaachanzz/kanna-wabot)
 
 ### Instal Buildpack
 * heroku/nodejs
