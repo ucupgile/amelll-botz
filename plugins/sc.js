@@ -5,7 +5,7 @@ let info = `╭═[ *SCRIPT* ]═────···
 ┴
 │ *Script :* 60K (No node_module)
 │ *Base :*
-│ ╰ https://github.com/nurutomo/wabot-aq
+│ ╰ https://github.com/Danangws
 │ *RestApi :* 
 │ ╰ https://hardianto.xyz
 ┬
