@@ -32,7 +32,7 @@ const defaultMenu = {
 │╰────────────────···
 ┠─────═[ *BOT INFO* ]═─────⋆
 │╭────────────────···
-┴│▸ *Nama Bot:* %me
+┴│▸ *Nama Bot:* Kawaii_botz™√
 ⬡│▸ *Mode:* ${global.opts['self'] ? 'Private' : 'Publik'}
 ⬡│▸ *Prefix:* [ ! ]
 ⬡│▸ *Speed:* ${neww - old} ms
@@ -47,7 +47,7 @@ const defaultMenu = {
   body: '│◌ ⃝✧⪼ %cmd %islimit %isPremium',
   footer: '┬\n╰───────────···',
   after: `⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕.
-     %me
+     create by : ©D'anang.w.s™√
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
