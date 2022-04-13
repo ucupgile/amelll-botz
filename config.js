@@ -92,7 +92,7 @@ global.packname = 'kawaii_botz™√.'
 global.author = '۰ ©Danangws™✓
 
 // silakan di ganti klo mau
-global.botwm = `©d'anang.w.s™√`//UBAH JADI NAMAMU
+global.botwm = `©danangws™√`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
