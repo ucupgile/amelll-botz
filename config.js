@@ -50,8 +50,8 @@ function pickRandom(list) {
 }*/
 
 global.DeveloperMode = 'false' //Buat Mode True False Moderator
-global.linkGC = ['wa.me/6285715590172'] // ganti jadi group lu
-global.owner = ['6285715590172','6285715590172','6285715590172','6285715590172','6285715590172', '6285715590172', '6285715590172'] // Put your number here
+global.linkGC = ['wa.me/62895327705102'] // ganti jadi group lu
+global.owner = ['62895327705102','62895327705102','62895327705102','62895327705102','62895327705102', '6285715590172', '6285715590172'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -92,7 +92,7 @@ global.packname = 'kawaii_botz™√.'
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `©danangws™√`//UBAH JADI NAMAMU
+global.botwm = `©ucupgile™√`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
